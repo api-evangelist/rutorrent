@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ruTorrent is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/Novik/ruTorrent
+ruTorrent is a web-based front‑end for the popular BitTorrent client rtorrent. It provides a lightweight, extensible interface that can be installed on low‑end servers or routers, offering features such as plugin support, customizable UI, and easy torrent management via a browser. The project is open‑source under GPL‑v3 and is maintained on GitHub, with documentation, releases, and community contributions available through its repository and wiki.
+
+**Areas:** Company · BitTorrent · OpenSource · WebUI · GPLv3
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://publicsuffix.org/list/public_suffix_list.dat)
+- [Documentation](https://github.com/Novik/ruTorrent/wiki)
+- [Getting started](https://github.com/Novik/ruTorrent/wiki/WebSERVER)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/rutorrent/](https://apis.io/providers/rutorrent/).
